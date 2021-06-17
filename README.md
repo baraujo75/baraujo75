@@ -10,7 +10,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baraujo75&show_icons=true&theme=merko)](https://github.com/baraujo75/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baraujo75&show_icons=true&theme=onedark)](https://github.com/baraujo75/github-readme-stats)
 
 [![Baraujo75's GitHub stats](https://github-readme-stats.vercel.app/api?username=baraujo75&show_icons=true&theme=merko)](https://github.com/baraujo75/github-readme-stats)
 
