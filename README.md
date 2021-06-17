@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-###### I'm Bruno Araujo, I'm 35 years old
-###### I'm from Recife/PE
-###### I'm a backend developer and I am currently studying frontend technologies
+### I'm Bruno Araujo, I'm 35 years old
+### I'm from Recife/PE
+### I'm a backend developer and I am currently studying frontend technologies
 
 ---
 
