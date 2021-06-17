@@ -4,24 +4,4 @@
 - 📫 How to reach me: bruno.bvaraujo@gmail.com
 
 
- const fetcher = (variables, token) => { 
-   return request( 
-     { 
-       query: ` 
-       query userInfo($login: String!) { 
-         user(login: $login) { 
-           repositories(isFork: false, first: 100) { 
-             nodes { 
-               languages(first: 1) { 
-                 edges { 
-                   size 
-                   node { 
-                     color 
-                     name 
-                   } 
-                 } 
-               } 
-             } 
-           } 
-         } 
-       } 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?baraujo75" frameborder="0"></iframe>
