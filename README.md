@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 ### I'm Bruno Araujo, I'm 35 years old
 ### I'm from Recife/PE - Brazil
